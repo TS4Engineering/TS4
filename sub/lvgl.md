@@ -53,7 +53,7 @@ related LVGL itself (hot topic in job market ), as well as to software developme
   * This training targets graduate engineers from **Electrical/Electronics/Telecom/Computer** fields seeking their first opportunity ,Exclusively.
   * 8~10 trainees per session
   * Delivered ressources include a booklet and software used during the training
-  * Schedule : Week 4 , November 2025 , and Week 1, December 2025
+  * Schedule : Week 2-3 , December 2025
   * Duration : 1 day.
   * Training Fee : **50 TND in all**  (including 20 TND as seat fee and resources allocation)
   * Location : **Bee Coworker Ezzahra**
