@@ -14,7 +14,7 @@ The main purpose of this training is to initiate young engineers to software dev
 and practising of LVGL as a typical project to start with. LVGL is an open source graphic library which is currently in increased adoption within the world of embedded systems. 
 
 This training is a valuable asset especially for those seeking their first job as it covers many topics and tips 
-related to software development and design from low level HAL to application (Read description below).
+related LVGL itself (hot topic in job market ), as well as to software development and design from low level HAL to application (Read description below).
 
 
 ##  🎯 Goals
